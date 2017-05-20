@@ -24,3 +24,4 @@ myObject.foo ='bar';
 2. 如果在[[Prototype]]链上层存在foo,但是它被标记为只读（writable：false），那么无法修改已有属性或者在myObject上创建屏蔽属性。如果运行在严格模式下，代码会抛出一个错误。否则，这条赋值语句会被忽略。总之，不会发生屏蔽。
 3. 如果在[[Prototype]]链上层存在foo并且它是一个setter，那就一定会调用这个setter。foo不会被添加到（或者说屏蔽于）myObject，也不会重新定义foo这个setter。
 
+
