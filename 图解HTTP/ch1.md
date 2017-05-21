@@ -24,7 +24,7 @@
 
  
 
-![未命名图片](F:\白\桌面文件\note\图解HTTP\未命名图片.png)
+![未命名图片](https://github.com/bai3/note/blob/master/%E5%9B%BE%E8%A7%A3HTTP/%E6%9C%AA%E5%91%BD%E5%90%8D%E5%9B%BE%E7%89%87.png)
 
 # 1.4 与HTTP关系密切的协议：IP、TCP和DNS
 
