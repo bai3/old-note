@@ -18,7 +18,7 @@
 
 - 注意：AJAX与Flash、Silverlight和Java Applet等RIA技术是有区分的。
 
-##Ajax工作原理
+## Ajax工作原理
 
 ![ajax](ajax\ajax.png)
 
