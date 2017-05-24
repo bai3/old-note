@@ -20,7 +20,7 @@
 
 ##Ajax工作原理
 
-![ajax](https://github.com/bai3/note/blob/master/Ajax/ajax.png)
+![ajax](ajax\ajax.png)
 
 ## Ajax创建对象
 
