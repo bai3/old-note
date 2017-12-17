@@ -48,7 +48,7 @@ categories: note
 
 **JSON文件使用.json扩展名**
 
-##第三章 JSON的数据结构
+## 第三章 JSON的数据结构
 
 JSON的数据类型：
 
